@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maxrave-dev/SimpMusic/jetpack_compose/fastlane/metadata/android/en-US/images/featureGraphic.png" />
-</div>
-
 # free music by prady
 
 A FOSS YouTube Music client for Android with many features from Spotify, SponsorBlock, ReturnYouTubeDislike
@@ -46,12 +42,6 @@ A FOSS YouTube Music client for Android with many features from Spotify, Sponsor
 > Because of depending on YouTube Music, the player error will happen and it's normally, please don't ask me about the stable state of this app.
 
 ## Screenshots
-
-<img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/2.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/3.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/4.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/5.png?raw=true" width="200">
-
-<img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/6.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/7.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/8.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/9.png?raw=true" width="200">
-
-<img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/10.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/11.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/12.png?raw=true" width="200">
 
 #### More [screenshots](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
 
@@ -109,22 +99,15 @@ See our [CODE OF CONDUCT](https://github.com/maxrave-dev/SimpMusic/blob/jetpack_
 
 #### Special thanks to all supporter ❤️
 
-<div align="left">
-  <a href="https://simpmusic.org/"><img alt="Visit the website" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg"></a>
-  <a href="https://discord.gg/Rq5tWVM9Hg"><img alt="Discord Server" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg"></a>
-  <a href="https://www.buymeacoffee.com/maxrave"><img alt="Buy me a Coffee" height="50" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg"></a>
-  <a href="https://liberapay.com/maxrave/"><img alt="liberapay" height="50" src="https://raw.githubusercontent.com/liberapay/liberapay.com/master/www/assets/liberapay/logo-v2_black-on-yellow.svg"></a>
-</div>
+<a href="https://simpmusic.org/"><img src="https://raw.githubusercontent.com/maxrave-dev/SimpMusic/jetpack_compose/asset/badge/website.svg" alt="Visit the website" /></a> <a href="https://discord.gg/Rq5tWVM9Hg"><img src="https://raw.githubusercontent.com/maxrave-dev/SimpMusic/jetpack_compose/asset/badge/discord.svg" alt="Discord Server" /></a> <a href="https://www.buymeacoffee.com/maxrave"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maxrave&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a Coffee" /></a> <a href="https://liberapay.com/maxrave/"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="liberapay" /></a>
 
 ### MOMO or Vietnamese banking
 
-<p float="left">
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/dev/asset/52770992.jpg?raw=true" width="300">
-</p>
+<img src="https://github.com/maxrave-dev/SimpMusic/blob/dev/asset/52770992.jpg?raw=true" />
 
 ## free music by prady is sponsored by:
 
-<a href="https://vercel.com/oss"><img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" /></a><a href="https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" width="300" alt="DigitalOcean Referral Badge" /></a><a href="https://crowdin.com"><img src="https://support.crowdin.com/assets/logos/plate/png/crowdin-logo-with-plate.png" width="300"/></a><a href="https://sentry.io"><img src="https://github.com/maxrave-dev/SimpMusic/blob/dev/asset/sentry.svg?raw=true" width="300"/></a>
+<a href="https://vercel.com/oss"><img src="https://img.shields.io/badge/Powered%20by-Vercel%20%E2%96%B2-000" alt="Vercel OSS Program" /></a><a href="https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a><a href="https://crowdin.com/"><img src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" /></a><a href="https://sentry.io/"><img src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" /></a>
 
 Get a free $200 credit over 60 days on DigitalOcean: [GET NOW](https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
@@ -133,7 +116,7 @@ Crowdin and Sentry both have a free enterprise plan for Open-source projects. Fo
 - [Sentry for Open Source | Sentry](https://sentry.io/for/open-source/)
 
 Check out the Vercel open-source program:
-- https://vercel.com/open-source-program
+- [https://vercel.com/open-source-program](https://vercel.com/open-source-program)
 
 *This project is a part of free music by prady Open-source project by me [maxrave-dev](https://github.com/maxrave-dev)*
 
