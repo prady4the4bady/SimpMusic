@@ -1,18 +1,15 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maxrave-dev/SimpMusic/jetpack_compose/fastlane/metadata/android/en-US/images/featureGraphic.png" />
+</div>
 
 # free music by prady
 
-A FOSS YouTube Music client for Android with many features from
-Spotify, SponsorBlock, ReturnYouTubeDislike
+A FOSS YouTube Music client for Android with many features from Spotify, SponsorBlock, ReturnYouTubeDislike
 
 [![GitHub release](https://img.shields.io/github/v/release/maxrave-dev/SimpMusic)](https://github.com/maxrave-dev/SimpMusic/releases) [![GitHub downloads](https://img.shields.io/github/downloads/maxrave-dev/SimpMusic/total)](https://github.com/maxrave-dev/SimpMusic/releases)
 
 <a href="https://trendshift.io/repositories/13482" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13482" alt="maxrave-dev%2FSimpMusic | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-<a href="https://www.producthunt.com/products/simpmusic/reviews?utm_source=badge-product_rating&amp;utm_medium=badge&amp;utm_source=badge-simpmusic" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_rating.svg?product_id=903836&amp;theme=dark" alt="free music by prady - A FOSS YouTube Music client for Android with many features | Product Hunt" style="width: 242px; height: 108px;" width="242" height="108" /></a>
-
-</div>
+<a href="https://www.producthunt.com/products/simpmusic/reviews?utm_source=badge-product_rating&utm_medium=badge&utm_source=badge-simpmusic" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_rating.svg?product_id=903836&theme=dark" alt="free music by prady - A FOSS YouTube Music client for Android with many features | Product Hunt" style="width: 242px; height: 108px;" width="242" height="108" /></a>
 
 #### Download
 
@@ -50,25 +47,11 @@ Spotify, SponsorBlock, ReturnYouTubeDislike
 
 ## Screenshots
 
-<p align="center">
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/2.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/3.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/4.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/5.png?raw=true" width="200" />
-</p>
+<img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/2.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/3.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/4.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/5.png?raw=true" width="200">
 
-<p align="center">
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/6.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/7.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/8.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/9.png?raw=true" width="200" />
-</p>
+<img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/6.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/7.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/8.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/9.png?raw=true" width="200">
 
-<p align="center">
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/10.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/11.png?raw=true" width="200" />
-  <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/12.png?raw=true" width="200" />
-</p>
+<img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/10.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/11.png?raw=true" width="200"> <img src="https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/asset/screenshot/12.png?raw=true" width="200">
 
 #### More [screenshots](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
 
@@ -84,10 +67,7 @@ Spotify, SponsorBlock, ReturnYouTubeDislike
 
 ## Privacy
 
-free music by prady doesn't have any tracker or third-party server for collecting user data in FOSS version. If YouTube
-logged-in users enable "Send back to Google" feature, free music by prady only uses YouTube Music Tracking API to send listening history and listening record of video to Google for better recommendations and
-supporting artist or YouTube Creator (For API reference,
-see [this](https://github.com/maxrave-dev/SimpMusic/blob/13f7ab6e5fa521b62a9fd31a1cefdc2787a1a8af/kotlinYtmusicScraper/src/main/java/com/maxrave/kotlinytmusicscraper/Ytmusic.kt#L639C4-L666C1)).
+free music by prady doesn't have any tracker or third-party server for collecting user data in FOSS version. If YouTube logged-in users enable "Send back to Google" feature, free music by prady only uses YouTube Music Tracking API to send listening history and listening record of video to Google for better recommendations and supporting artist or YouTube Creator (For API reference, see [this](https://github.com/maxrave-dev/SimpMusic/blob/13f7ab6e5fa521b62a9fd31a1cefdc2787a1a8af/kotlinYtmusicScraper/src/main/java/com/maxrave/kotlinytmusicscraper/Ytmusic.kt#L639C4-L666C1)).
 
 We collect crash data in the Full version to improve the app.
 
@@ -107,9 +87,7 @@ You can help me translate this app into your language by using Crowdin [free mus
 
 #### 1. Wrong Lyrics?
 
-Lyrics are provided by LRCLIB and other sources. Sometimes lyrics may not match perfectly with YouTube"
-videold" parameter. So I need to use some "String Matcher" and "Duration" for search lyrics. So
-sometimes, some songs or videos get the wrong lyrics
+Lyrics are provided by LRCLIB and other sources. Sometimes lyrics may not match perfectly with YouTube" videold" parameter. So I need to use some "String Matcher" and "Duration" for search lyrics. So sometimes, some songs or videos get the wrong lyrics
 
 #### 2. Why the name or brand is "free music by prady"?
 
@@ -146,23 +124,19 @@ See our [CODE OF CONDUCT](https://github.com/maxrave-dev/SimpMusic/blob/jetpack_
 
 ## free music by prady is sponsored by:
 
-<a href="https://vercel.com/oss"><img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" /></a>
-
-<a href="https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" width="300" alt="DigitalOcean Referral Badge" /></a>
-
-<a href="https://crowdin.com"><img src="https://support.crowdin.com/assets/logos/plate/png/crowdin-logo-with-plate.png" width="300"/></a>
-
-<a href="https://sentry.io"><img src="https://github.com/maxrave-dev/SimpMusic/blob/dev/asset/sentry.svg?raw=true" width="300"/></a>
+<a href="https://vercel.com/oss"><img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge.svg" /></a><a href="https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" width="300" alt="DigitalOcean Referral Badge" /></a><a href="https://crowdin.com"><img src="https://support.crowdin.com/assets/logos/plate/png/crowdin-logo-with-plate.png" width="300"/></a><a href="https://sentry.io"><img src="https://github.com/maxrave-dev/SimpMusic/blob/dev/asset/sentry.svg?raw=true" width="300"/></a>
 
 Get a free $200 credit over 60 days on DigitalOcean: [GET NOW](https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 Crowdin and Sentry both have a free enterprise plan for Open-source projects. Follow the URLs:
-
 - [Open Source License Request Form | Crowdin](https://crowdin.com/page/open-source-project-setup-request)
 - [Sentry for Open Source | Sentry](https://sentry.io/for/open-source/)
 
 Check out the Vercel open-source program:
-
 - https://vercel.com/open-source-program
 
 *This project is a part of free music by prady Open-source project by me [maxrave-dev](https://github.com/maxrave-dev)*
+
+## Legal Disclaimer
+
+"free music by prady" is an independent, open-source application for personal entertainment use. Not affiliated with, endorsed by, or associated with YouTube, Google LLC, Spotify AB, or any other entity. All trademarks and logos are the property of their respective owners. This project is strictly non-commercial, respects copyright, and does not bypass copyright protection or allow illegal downloading. For concerns, contact the maintainer.
