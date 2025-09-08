@@ -1,22 +1,17 @@
 # free music by prady
-
 A FOSS YouTube Music client for Android with many features from Spotify, SponsorBlock, ReturnYouTubeDislike
 
 [![GitHub release](https://img.shields.io/github/v/release/maxrave-dev/SimpMusic)](https://github.com/maxrave-dev/SimpMusic/releases) [![GitHub downloads](https://img.shields.io/github/downloads/maxrave-dev/SimpMusic/total)](https://github.com/maxrave-dev/SimpMusic/releases)
 
-<a href="https://trendshift.io/repositories/13482" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13482" alt="maxrave-dev%2FSimpMusic | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-<a href="https://www.producthunt.com/products/simpmusic/reviews?utm_source=badge-product_rating&utm_medium=badge&utm_source=badge-simpmusic" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_rating.svg?product_id=903836&theme=dark" alt="free music by prady - A FOSS YouTube Music client for Android with many features | Product Hunt" style="width: 242px; height: 108px;" width="242" height="108" /></a>
+<a href="https://trendshift.io/repositories/13482" target="_blank"><img src="https://trendshift.io/api/badge/repositories/13482" alt="maxrave-dev%2FSimpMusic | Trendshift" style="width: 250px; height: 55px;" width="250" height="55" /></a> <a href="https://www.producthunt.com/products/simpmusic/reviews?utm_source=badge-product_rating&utm_medium=badge&utm_source=badge-simpmusic" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_rating.svg?product_id=903836&theme=dark" alt="free music by prady - A FOSS YouTube Music client for Android with many features | Product Hunt" style="width: 242px; height: 108px;" width="242" height="108" /></a>
 
 #### Download
-
 <a href="https://apt.izzysoft.de/packages/com.maxrave.simpmusic/"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width="200"></a> <a href="https://f-droid.org/en/packages/com.maxrave.simpmusic/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" width="200"></a> <a href="https://www.openapk.net/simpmusic/com.maxrave.simpmusic/"><img src="https://www.openapk.net/images/openapk-badge.png" width="200"></a> <a href="https://github.com/maxrave-dev/SimpMusic/releases"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a>
 
 #### Nightly Build
-
 <a href="https://simpmusic.org/nightly-download"><img src="https://github.com/maxrave-dev/SimpMusic/actions/workflows/android.yml/badge.svg"></a> <a href="https://simpmusic.org/nightly-download"><img src="https://raw.githubusercontent.com/NeoApplications/Neo-Backup/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" width="200"></a>
 
 ## Features ✨️
-
 - Play music from YouTube Music or YouTube for free, without ads and in the background
 - Browsing Home, Charts, Podcast, Moods & Genre with YouTube Music data at high speed
 - Search everything on YouTube
@@ -35,18 +30,15 @@ A FOSS YouTube Music client for Android with many features from Spotify, Sponsor
 
 > (*) Use your OpenAI or Gemini API key
 > (**) For users who chose "Send back to Google" feature
-
 > **Warning**
 > This app is in the beta stage, so it may have many bugs and make it crash. If you find any bugs,
 > please create an issue or contact me via email or Discord server.
 > Because of depending on YouTube Music, the player error will happen and it's normally, please don't ask me about the stable state of this app.
 
 ## Screenshots
-
 #### More [screenshots](https://photos.app.goo.gl/AbieoXG5ctDrpwzp7) here.
 
 ## Data
-
 - This app uses hidden API from YouTube Music with some tricks to get data from YouTube Music.
 - Use Spotify Web API and some tricks to get Spotify Canvas and Lyrics
 - Thanks to [InnerTune](https://github.com/z-huang/InnerTune/) for the idea to get data from YouTube Music. This repo is my inspiration to create this app.
@@ -55,18 +47,14 @@ A FOSS YouTube Music client for Android with many features from Spotify, Sponsor
 - ReturnYouTubeDislike for getting information on votes
 - Lyrics data from LRCLIB. More information [LRCLIB](https://lrclib.net/)
 
-## Privacy
+## Privacy Policy
 
-free music by prady doesn't have any tracker or third-party server for collecting user data in FOSS version. If YouTube logged-in users enable "Send back to Google" feature, free music by prady only uses YouTube Music Tracking API to send listening history and listening record of video to Google for better recommendations and supporting artist or YouTube Creator (For API reference, see [this](https://github.com/maxrave-dev/SimpMusic/blob/13f7ab6e5fa521b62a9fd31a1cefdc2787a1a8af/kotlinYtmusicScraper/src/main/java/com/maxrave/kotlinytmusicscraper/Ytmusic.kt#L639C4-L666C1)).
-
-We collect crash data in the Full version to improve the app.
+"free music by prady" does not collect, store, or share any personal data. The app does not include analytics, tracking, advertisements, or any telemetry. All playback and search are processed locally or via public APIs with user control. No login is required.
 
 ## Full or FOSS version
-
 I use [Sentry](http://sentry.io/) crashlytics to catch all crashes in the Full version. [Sentry](https://github.com/getsentry/sentry) is the open-source project. If you don't want to be collected crash data, you must use FOSS version.
 
 ## Translation
-
 [![Crowdin](https://badges.crowdin.net/simpmusic/localized.svg)](https://crowdin.com/project/simpmusic)
 
 You can help me translate this app into your language by using Crowdin [free music by prady on Crowdin](https://crowdin.com/project/simpmusic)
@@ -74,19 +62,15 @@ You can help me translate this app into your language by using Crowdin [free mus
 #### Special thanks to all translators on Crowdin ❤️
 
 ## FAQ
-
 #### 1. Wrong Lyrics?
-
 Lyrics are provided by LRCLIB and other sources. Sometimes lyrics may not match perfectly with YouTube" videold" parameter. So I need to use some "String Matcher" and "Duration" for search lyrics. So sometimes, some songs or videos get the wrong lyrics
 
 #### 2. Why the name or brand is "free music by prady"?
-
 free music by prady is a complete rebranding of the original app with focus on providing free, accessible music streaming. It maintains the powerful features while emphasizing the free and open-source nature of the application.
 
 #### More FAQ, join [my Discord channel](https://discord.com/channels/1136988323819298856/1349800418745778196)
 
 ## Developer/Team
-
 - [maxrave-dev](https://github.com/maxrave-dev/SimpMusic): Founder/Developer/Designer
 - [Owen Connor](https://github.com/owencz1998): Discord Server Admin.
 - [ilianoKokoro](https://github.com/ilianoKokoro): Discord Server Admin.
@@ -96,17 +80,14 @@ We're looking for more contributors, all contributions are welcome!
 See our [CODE OF CONDUCT](https://github.com/maxrave-dev/SimpMusic/blob/jetpack_compose/CODE_OF_CONDUCT.md)
 
 ## Support & Donations
-
 #### Special thanks to all supporter ❤️
 
 <a href="https://simpmusic.org/"><img src="https://raw.githubusercontent.com/maxrave-dev/SimpMusic/jetpack_compose/asset/badge/website.svg" alt="Visit the website" /></a> <a href="https://discord.gg/Rq5tWVM9Hg"><img src="https://raw.githubusercontent.com/maxrave-dev/SimpMusic/jetpack_compose/asset/badge/discord.svg" alt="Discord Server" /></a> <a href="https://www.buymeacoffee.com/maxrave"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maxrave&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a Coffee" /></a> <a href="https://liberapay.com/maxrave/"><img src="https://liberapay.com/assets/widgets/donate.svg" alt="liberapay" /></a>
 
 ### MOMO or Vietnamese banking
-
 <img src="https://github.com/maxrave-dev/SimpMusic/blob/dev/asset/52770992.jpg?raw=true" />
 
 ## free music by prady is sponsored by:
-
 <a href="https://vercel.com/oss"><img src="https://img.shields.io/badge/Powered%20by-Vercel%20%E2%96%B2-000" alt="Vercel OSS Program" /></a><a href="https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a><a href="https://crowdin.com/"><img src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" /></a><a href="https://sentry.io/"><img src="https://sentry-brand.storage.googleapis.com/sentry-logo-black.png" /></a>
 
 Get a free $200 credit over 60 days on DigitalOcean: [GET NOW](https://www.digitalocean.com/?refcode=d7f6eedfb9a9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
@@ -121,5 +102,4 @@ Check out the Vercel open-source program:
 *This project is a part of free music by prady Open-source project by me [maxrave-dev](https://github.com/maxrave-dev)*
 
 ## Legal Disclaimer
-
 "free music by prady" is an independent, open-source application for personal entertainment use. Not affiliated with, endorsed by, or associated with YouTube, Google LLC, Spotify AB, or any other entity. All trademarks and logos are the property of their respective owners. This project is strictly non-commercial, respects copyright, and does not bypass copyright protection or allow illegal downloading. For concerns, contact the maintainer.
